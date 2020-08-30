@@ -1,6 +1,7 @@
 # First Laravel Blog Project
 
 Laravel framework ile hazırlanmıştır.
+
 Projeyi indirdikten sonra kullanmak için yapılması gerekenler:
 
 * blog.sql dosyasını veritabanınıza içeri aktar diyerek veritabanını oluşturabilirsiniz.
