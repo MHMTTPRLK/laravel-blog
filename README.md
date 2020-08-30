@@ -9,6 +9,8 @@
 </p>
 
 
+# First Laravel Blog Project
+
 Laravel framework ile hazırlanmıştır.
 
 Projeyi indirdikten sonra kullanmak için yapılması gerekenler:
@@ -18,3 +20,4 @@ Projeyi indirdikten sonra kullanmak için yapılması gerekenler:
 * .env dosyasında DB_DATABASE=blog ayarlayabilirsiniz.
 *  Veya migration ve seed çalıştırarak tabloları oluşturup ve doldurabilirsiniz.
 
+Hayat Paylaşarak Ve Ögrenerek Güzel...
